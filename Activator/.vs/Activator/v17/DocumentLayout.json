@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\source\\repos\\Windows Activator\\Windows-activation-tool\\Activator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F18D407-7B06-4455-80C6-A3683441F321}|Activator.vcxproj|C:\\Users\\Andrei\\source\\repos\\Windows Activator\\Windows-activation-tool\\Activator\\Activator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F18D407-7B06-4455-80C6-A3683441F321}|Activator.vcxproj|solutionrelative:Activator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Activator.cpp",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Windows Activator\\Windows-activation-tool\\Activator\\Activator.cpp",
+              "RelativeDocumentMoniker": "Activator.cpp",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Windows Activator\\Windows-activation-tool\\Activator\\Activator.cpp",
+              "RelativeToolTip": "Activator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T18:11:13.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
